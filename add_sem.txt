@@ -1,0 +1,9 @@
+cs 121 fall
+cs 122 spring
+cs 166 spring
+cs 215 fall
+cs 223 fall
+cs 224 spring
+cs 251 spring
+cs 260 fall
+cs 261 spring
